@@ -1,0 +1,35 @@
+.joinOuterContainer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #1a1a1d;
+    height: 100vh;
+    align-items: center;
+}
+.joinInnerContainer{
+    width:40%;
+}
+.joinInput{
+    border-radius: 5px;
+    padding: 15px 20px;
+    width:100%;
+    margin-top: 20px;
+}
+.heading{
+    color: whitesmoke;
+    font-size: 2.5em;
+    padding-bottom: 10px;
+    border-bottom: 2px solid whitesmoke;
+}
+.button{
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #2979ff;
+    padding: 20px;
+    border-radius: 5px;
+    display: inline-block;
+    border:none;
+    width:100%;
+    margin-top: 20px;
+}
