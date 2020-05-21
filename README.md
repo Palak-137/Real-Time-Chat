@@ -2,6 +2,8 @@
 The Basic requirement for the Chat-App is sending and reciveing of messeges without reloading the page.But using http/https request the server closed once the request is completed due to which we have to reload the page again and again.
 
 To overcome this we use socket.io as once it started it won't get close until and unless the user left.
+For Documentation or learn more use - 
+https://socket.io/docs/
 
 To start the application run both the file on node.js using command - 
 # npm init
